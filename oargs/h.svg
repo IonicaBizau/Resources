@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="oargv.svg"
+   inkscape:export-filename="/home/ionicabizau/Desktop/oargv.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3805"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="589.97774"
+     inkscape:cy="269.68095"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:monaco;-inkscape-font-specification:monaco"
+       x="57.142857"
+       y="833.27527"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="833.27527"
+         id="tspan2991"
+         style="font-size:20px;fill:#2c3e50;font-family:Monaco;-inkscape-font-specification:Monaco">OArgv({</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="858.27527"
+         id="tspan2995"
+         style="font-size:20px;fill:#2c3e50;font-family:Monaco;-inkscape-font-specification:Monaco">    r: true</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="883.27527"
+         id="tspan2997"
+         style="font-size:20px;fill:#2c3e50;font-family:Monaco;-inkscape-font-specification:Monaco">  , _: [</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="908.27527"
+         id="tspan2999"
+         style="font-size:20px;fill:#2c3e50;font-family:Monaco;-inkscape-font-specification:Monaco">        &quot;foo.zip&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="933.27527"
+         id="tspan3001"
+         style="font-size:20px;fill:#2c3e50;font-family:Monaco;-inkscape-font-specification:Monaco">      , &quot;foo&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="958.27527"
+         id="tspan3003"
+         style="font-size:20px;fill:#2c3e50;font-family:Monaco;-inkscape-font-specification:Monaco">    ]</tspan><tspan
+         sodipodi:role="line"
+         x="57.142857"
+         y="983.27527"
+         id="tspan2989"
+         style="font-size:20px;fill:#2c3e50;font-family:Monaco;-inkscape-font-specification:Monaco">}, &quot;zip&quot;)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:monaco;-inkscape-font-specification:monaco"
+       x="557.85712"
+       y="909.75354"
+       id="text3024"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3026"
+         x="557.85712"
+         y="909.75354"
+         style="font-size:25px;fill:#2c3e50;font-family:Monaco;-inkscape-font-specification:Monaco">zip -r &quot;foo.zip&quot; &quot;foo&quot;</tspan></text>
+    <path
+       style="fill:#2c3e50;stroke:#000000;stroke-width:0.95757787999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 318.37465,902.36218 191.2507,0"
+       id="path3028"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4330"
+       d="m 423.46999,861.43756 8.05429,-8.05429 -2.94133,-2.94133 -8.05429,8.0543 z m 12.28761,-8.05429 q 0,0.74221 -0.4948,1.237 l -35.35095,35.35096 q -0.4948,0.49479 -1.23701,0.49479 -0.7422,0 -1.23701,-0.49479 l -5.44284,-5.44284 q -0.4948,-0.49481 -0.4948,-1.23701 0,-0.7422 0.4948,-1.23701 l 35.35096,-35.35095 q 0.4948,-0.4948 1.237,-0.4948 0.74221,0 1.23701,0.4948 l 5.44284,5.44284 q 0.4948,0.4948 0.4948,1.23701 z m -37.13773,-5.22293 2.69392,0.82468 -2.69392,0.82467 -0.82468,2.69393 -0.82467,-2.69393 -2.69393,-0.82467 2.69393,-0.82468 0.82467,-2.69392 z m 9.62117,4.45324 5.38786,1.64934 -5.38786,1.64934 -1.64934,5.38786 -1.64935,-5.38786 -5.38786,-1.64934 5.38786,-1.64934 1.64935,-5.38786 z m 25.56484,13.13977 2.69393,0.82467 -2.69393,0.82467 -0.82468,2.69393 -0.82467,-2.69393 -2.69393,-0.82467 2.69393,-0.82467 0.82467,-2.69393 z m -17.59301,-17.59301 2.69393,0.82468 -2.69393,0.82467 -0.82467,2.69393 -0.82467,-2.69393 -2.69393,-0.82467 2.69393,-0.82468 0.82467,-2.69392 z"
+       inkscape:connector-curvature="0"
+       style="fill:#2c3e50" />
+  </g>
+</svg>
