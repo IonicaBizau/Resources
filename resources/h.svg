@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="resources.svg"
+   inkscape:export-filename="/home/ionicabizau/Desktop/resources.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="262.50962"
+     inkscape:cy="255.43499"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:monaco;-inkscape-font-specification:monaco"
+       x="433.98389"
+       y="869.05652"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="433.98389"
+         y="869.05652"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#2c3e50;font-family:Emilys Candy;-inkscape-font-specification:Emilys Candy">resources</tspan></text>
+    <path
+       id="path3118"
+       d="m 85.684011,816.68803 h -4.91854 v 4.91853 h 4.91854 v -4.91853 z m 0,-9.83708 h -4.91854 v 4.91853 h 4.91854 v -4.91853 z m 29.511239,-9.83708 c -2.45928,0 -46.72613,0 -49.1854,0 -2.45927,0 -4.91854,2.45927 -4.91854,4.91853 0,2.45928 0,56.56321 0,59.02249 0,2.45927 2.45927,4.91855 4.91854,4.91855 2.45927,0 9.837082,0 9.837082,0 v 9.83706 l 7.377809,-7.37781 7.377806,7.37781 v -9.83706 c 0,0 22.133423,0 24.592703,0 2.45927,0 4.91855,-2.45928 4.91855,-4.91855 0,-2.45928 0,-56.56321 0,-59.02249 0,-2.45926 -2.45928,-4.91853 -4.91855,-4.91853 z m 0,61.48174 c 0,1.22963 -1.15278,2.45928 -2.45928,2.45928 -1.30648,0 -22.133423,0 -22.133423,0 v -4.91854 H 75.846932 v 4.91854 c 0,0 -6.071324,0 -7.377812,0 -1.306486,0 -2.45927,-1.30649 -2.45927,-2.45928 0,-1.15278 0,-7.37781 0,-7.37781 h 49.1854 c 0,0 0,6.14818 0,7.37781 z m 0,-12.29634 H 75.846932 V 801.9324 h 39.425178 l -0.0769,44.26687 z m -29.511239,-9.83709 h -4.91854 v 4.91855 h 4.91854 v -4.91855 z m 0,-9.83708 h -4.91854 v 4.91855 h 4.91854 v -4.91855 z"
+       inkscape:connector-curvature="0"
+       style="fill:#e74c3c" />
+    <path
+       id="path3177"
+       d="m 814.57032,799.71758 h -48.67676 l -24.33837,24.33837 48.67675,48.67677 48.67675,-48.67677 -24.33837,-24.33837 z m -60.84594,24.33837 18.25378,-18.25377 h 36.50756 l 18.25377,18.25377 -36.50755,36.50757 -36.50756,-36.50757 z m 54.76134,-12.1692 h -18.25378 v 42.59217 l 30.42298,-30.42297 -12.1692,-12.1692 z"
+       inkscape:connector-curvature="0"
+       style="fill:#e74c3c" />
+    <path
+       id="path3252"
+       d="M 471.76283,957.2079 456.5337,955.22686 450,941.66303 l -6.53522,13.56383 -15.22761,1.98104 11.19565,10.1467 -2.88886,14.7221 13.45603,-7.229 13.45905,7.229 -2.89338,-14.7221 11.19716,-10.1467 z"
+       inkscape:connector-curvature="0"
+       style="fill:#f39c12" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:monaco;-inkscape-font-specification:monaco"
+       x="57.931564"
+       y="918.39771"
+       id="text3261"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="57.931564"
+         y="918.39771"
+         id="tspan2993"
+         style="font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Image resources used in Ionică Bizău's projects.</tspan></text>
+  </g>
+</svg>
