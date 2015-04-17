@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900mm"
+   height="400mm"
+   viewBox="0 0 900 400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="h.svg"
+   inkscape:export-filename="/home/ionicabizau/Documents/repository-downloader/downloads/github/IonicaBizau/Resources/clp/h.png"
+   inkscape:export-xdpi="28.219999"
+   inkscape:export-ydpi="28.219999">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.41804167"
+     inkscape:cx="1651.5784"
+     inkscape:cy="851.58975"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     height="400mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,103)">
+    <g
+       id="g4023"
+       transform="translate(0,-4.5099966)">
+      <g
+         transform="matrix(0.94444444,0,0,0.94444444,25.000002,-46.217511)"
+         id="g3981">
+        <rect
+           rx="95.294121"
+           style="opacity:1;fill:#c0392b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30970154"
+           id="rect3360"
+           width="273.41769"
+           height="273.41769"
+           x="313.29114"
+           y="-39.708847"
+           ry="95.294121" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="343.66232"
+           y="53.12051"
+           id="text3336"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="343.66232"
+             y="53.12051"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:Monaco;-inkscape-font-specification:Monaco;stroke-width:0.26458332px"
+             id="tspan3340"><tspan
+               style="fill:#2c3e50"
+               id="tspan3358">C</tspan><tspan
+               style="fill:#bdc3c7"
+               id="tspan3348">ommand</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="343.66232"
+             y="116.62051"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:Monaco;-inkscape-font-specification:Monaco;stroke-width:0.26458332px"
+             id="tspan3344"><tspan
+               style="fill:#2c3e50"
+               id="tspan3356">L</tspan><tspan
+               style="fill:#bdc3c7"
+               id="tspan3350">ine</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="343.66232"
+             y="180.12051"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:Monaco;-inkscape-font-specification:Monaco;stroke-width:0.26458332px"
+             id="tspan3346"><tspan
+               style="fill:#2c3e50"
+               id="tspan3354">P</tspan><tspan
+               style="fill:#bdc3c7"
+               id="tspan3352">arser</tspan></tspan></text>
+        <path
+           d="m 490.84051,199.19747 -81.68102,0 c -3.75966,0 -6.80676,3.04708 -6.80676,6.80674 l 0,68.06752 c 0,3.75967 3.04709,6.80676 6.80676,6.80676 l 81.68102,0 c 3.75966,0 6.80676,-3.04709 6.80676,-6.80676 l 0,-68.06752 c 0,-3.75966 -3.04709,-6.80674 -6.80676,-6.80674 z m -74.87427,47.64725 13.6135,-13.6135 -13.6135,-13.6135 6.80675,-6.80675 20.42027,20.42025 -20.42027,20.42026 -6.80675,-6.80676 z m 54.45401,6.80676 -27.227,0 0,-6.80676 27.227,0 0,6.80676 z"
+           id="path3958"
+           inkscape:connector-curvature="0"
+           style="fill:#f39c12;stroke-width:0.10635548" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3995"
+         y="248.88835"
+         x="450.40927"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4013"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.39999962px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#2c3e50;stroke-width:0.26458332px"
+           y="248.88835"
+           x="450.40927"
+           sodipodi:role="line">A <tspan
+   id="tspan3999"
+   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;text-anchor:middle">tiny</tspan> and <tspan
+   id="tspan4003"
+   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;text-anchor:middle">fast</tspan> command line</tspan><tspan
+           id="tspan4021"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.39999962px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#2c3e50;stroke-width:0.26458332px"
+           y="280.63834"
+           x="450.40927"
+           sodipodi:role="line">arguments parser and help generator.</tspan></text>
+    </g>
+  </g>
+</svg>
