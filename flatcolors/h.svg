@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900mm"
+   height="300mm"
+   viewBox="0 0 900 300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="h.svg"
+   inkscape:export-filename="/home/ionicabizau/Documents/repository-downloader/downloads/github/IonicaBizau/Resources/flatcolors/h.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5661">
+      <stop
+         style="stop-color:#e74c3c;stop-opacity:1;"
+         offset="0"
+         id="stop5663" />
+      <stop
+         style="stop-color:#c0392b;stop-opacity:1"
+         offset="1"
+         id="stop5665" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5661"
+       id="linearGradient5667"
+       x1="240.50633"
+       y1="-53.632908"
+       x2="467.72153"
+       y2="172.31645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.10625,0,0,1.10625,-144.01505,-63.88191)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.41804167"
+     inkscape:cx="1605.1032"
+     inkscape:cy="471.24489"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="900mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,3)">
+    <g
+       id="g5669"
+       transform="matrix(0.90395481,0,0,0.90395481,130.18309,57.746358)">
+      <rect
+         ry="86.119461"
+         y="-54.26582"
+         x="241.77214"
+         height="224.05063"
+         width="224.05063"
+         id="rect5659"
+         style="opacity:1;fill:url(#linearGradient5667);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01347923;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         rx="86.119461" />
+      <path
+         style="fill:#ecf0f1;stroke-width:0.177558"
+         inkscape:connector-curvature="0"
+         id="path5089"
+         d="m 353.79745,-27.46836 c -37.65597,0 -68.18228,30.5263145 -68.18228,68.182286 l 0,11.363712 c 0,6.27597 5.08775,11.363717 11.36371,11.363717 l 0,56.818565 c 0,12.55193 25.43856,22.72743 56.81857,22.72743 31.38001,0 56.81857,-10.1755 56.81857,-22.72743 l 0,-56.818565 c 6.27596,0 11.36371,-5.087747 11.36371,-11.363717 l 0,-11.363712 c 0,-37.6559715 -30.52631,-68.182286 -68.18228,-68.182286 z m 34.09114,113.637139 0,5.68186 c 0,3.13798 -2.54388,5.68186 -5.68186,5.68186 -3.13798,0 -5.68185,-2.54388 -5.68185,-5.68186 l 0,-5.68186 c 0,-3.13798 -2.54388,-5.68185 -5.68186,-5.68185 -3.13798,0 -5.68186,2.54387 -5.68186,5.68185 l 0,28.409291 c 0,3.13798 -2.54387,5.68185 -5.68185,5.68185 -3.13798,0 -5.68186,-2.54387 -5.68186,-5.68185 l 0,-22.727431 c 0,-3.13798 -2.54387,-5.68186 -5.68186,-5.68186 -3.13798,0 -5.68185,2.54388 -5.68185,5.68186 l 0,5.68186 c 0,6.275961 -5.08775,11.363711 -11.36372,11.363711 -6.27596,0 -11.36371,-5.08775 -11.36371,-11.363711 l 0,-11.36372 c -6.27596,0 -11.36371,-5.08775 -11.36371,-11.36371 l 0,-20.453445 c 10.36619,5.519396 26.86772,9.089731 45.45485,9.089731 18.58713,0 35.08866,-3.570335 45.45485,-9.089731 l 0,20.453445 c 0,6.27596 -5.08775,11.36371 -11.36371,11.36371 z M 353.79745,52.077638 c -19.07559,0 -35.40382,-4.700672 -42.1473,-11.363712 6.74348,-6.663046 23.07171,-11.363717 42.1473,-11.363717 19.07559,0 35.40382,4.700671 42.1473,11.363717 -6.74348,6.66304 -23.07171,11.363712 -42.1473,11.363712 z m 0,-34.091141 c -31.3603,0 -56.78589,10.16271 -56.81786,22.703814 -1.7e-4,-1.81e-4 -3.5e-4,-1.81e-4 -5.3e-4,-3.56e-4 0.0132,-31.3690025 25.44637,-56.794598 56.81839,-56.794598 31.38001,0 56.81857,25.4385615 56.81857,56.818569 0,-12.551935 -25.43856,-22.727429 -56.81857,-22.727429 z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.69945145px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0392b;fill-opacity:1;stroke:none;stroke-width:0.32622939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="281.23499"
+       y="259.50146"
+       id="text5673"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5675"
+         x="281.23499"
+         y="259.50146"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:62.63604736px;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';fill:#c0392b;stroke-width:0.32622939px;">Flat Colors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.81372213px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0392b;fill-opacity:1;stroke:none;stroke-width:0.18051459px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="283.68506"
+       y="274.47739"
+       id="text5677"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5679"
+         x="283.68506"
+         y="274.47739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.40391159px;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#c0392b;stroke-width:0.18051459px;">Find the nearest flat color for a RGB/Hex input.</tspan></text>
+  </g>
+</svg>

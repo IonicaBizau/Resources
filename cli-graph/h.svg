@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900mm"
+   height="300mm"
+   viewBox="0 0 900 300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="h.svg"
+   inkscape:export-filename="/home/ionicabizau/Documents/repository-downloader/downloads/github/IonicaBizau/Resources/cli-graph/h.png"
+   inkscape:export-xdpi="25.42"
+   inkscape:export-ydpi="25.42">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5436">
+      <stop
+         style="stop-color:#34495e;stop-opacity:1"
+         offset="0"
+         id="stop5438" />
+      <stop
+         style="stop-color:#2c3e50;stop-opacity:1"
+         offset="1"
+         id="stop5440" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5436"
+       id="linearGradient5442"
+       x1="313.29114"
+       y1="29.911394"
+       x2="584.81012"
+       y2="263.45569"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.436104,0,0,1.436104,-196.24678,-3.312214)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1657.83"
+     inkscape:cy="644.95655"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="900mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,3)">
+    <g
+       id="g5444"
+       transform="matrix(0.69632841,0,0,0.69632841,136.65222,2.3063878)">
+      <path
+         style="fill:url(#linearGradient5442);fill-opacity:1;stroke-width:0.30084386"
+         inkscape:connector-curvature="0"
+         id="path4253"
+         d="m 565.52404,31.475949 -231.04809,0 c -10.63483,0 -19.25402,8.619174 -19.25402,19.254005 l 0,192.540096 c 0,10.63483 8.61919,19.254 19.25402,19.254 l 231.04809,0 c 10.63483,0 19.25402,-8.61917 19.25402,-19.254 l 0,-192.540096 c 0,-10.634831 -8.61919,-19.254005 -19.25402,-19.254005 z M 353.72995,166.254 392.23798,127.746 353.72995,89.237974 372.98396,69.98397 430.74598,127.746 372.98396,185.50802 353.72995,166.254 Z m 154.03206,19.25402 -77.01603,0 0,-19.25402 77.01605,0 0,19.25402 z" />
+      <path
+         style="fill:#2ecc71;stroke-width:0.13231473"
+         inkscape:connector-curvature="0"
+         id="path4870"
+         d="m 417.8095,151.73503 -25.40443,0 0,84.68143 25.40443,0 0,-84.68143 z m 33.87257,25.40442 -25.40443,0 0,59.27701 25.40443,0 0,-59.27701 z m -118.55401,67.74515 0,-16.93629 8.46815,0 0,-8.46814 -8.46815,0 0,-16.93629 8.46815,0 0,-8.46814 -8.46815,0 0,-16.93629 8.46815,0 0,-8.46814 -8.46815,0 0,-16.93628 8.46815,0 0,-8.46815 -8.46815,0 0,-16.93628 8.46815,0 0,-8.46815 -16.93629,0 0,135.49029 135.49029,0 0,-8.46814 -127.02215,0 z m 50.80886,-50.80886 -25.40443,0 0,42.34072 25.40443,0 0,-42.34072 z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.87084007px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2ecc71;fill-opacity:1;stroke:none;stroke-width:0.82015646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="355.28391"
+       y="221.36102"
+       id="text5448"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5450"
+         x="355.28391"
+         y="221.36102"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:39.36751175px;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';fill:#2ecc71;stroke-width:0.82015646px;">CLI Graph</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.97382355px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:0.78651762px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="450.24332"
+       y="243.80952"
+       id="text5452"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5454"
+         x="450.24332"
+         y="243.80952"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Thin';text-align:center;text-anchor:middle;fill:#2c3e50;stroke-width:0.78651762px;">Easily draw function</tspan><tspan
+         sodipodi:role="line"
+         x="450.24332"
+         y="270.02679"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Thin';text-align:center;text-anchor:middle;fill:#2c3e50;stroke-width:0.78651762px;"
+         id="tspan5456">graphs in text mode.</tspan></text>
+  </g>
+</svg>
