@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="h.svg"
+   inkscape:export-filename="/home/ionicabizau/Documents/Resources/diable/h.png"
+   inkscape:export-xdpi="156.89999"
+   inkscape:export-ydpi="156.89999">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       end_linecap_type="round"
+       miter_limit="4"
+       linejoin_type="round"
+       start_linecap_type="round"
+       interpolator_beta="0.2"
+       interpolator_type="Linear"
+       sort_points="true"
+       offset_points="0,41.447404 | 1.5814428,26.169854 | 3.9998241,0.038576051"
+       is_visible="true"
+       id="path-effect4224"
+       effect="powerstroke" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4222"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect4218"
+       is_visible="true"
+       offset_points="0,41.447404 | 1.5814428,26.169854 | 3.9998241,0.038576051"
+       sort_points="true"
+       interpolator_type="Linear"
+       interpolator_beta="0.2"
+       start_linecap_type="round"
+       linejoin_type="round"
+       miter_limit="4"
+       end_linecap_type="round" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4216"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1415846"
+     inkscape:cx="463.73428"
+     inkscape:cy="229.38552"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36218)">
+    <g
+       id="g4226"
+       transform="matrix(0.66822907,0,0,0.66822907,149.56574,244.76965)"
+       style="opacity:0.764">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 323.34089,841.67469 c 0,0 -151.68832,-1.08988 -45.1635,-99.98892 106.5248,-98.89908 285.84588,-110.73443 106.5248,-98.89908"
+         inkscape:path-effect="#path-effect4216;#path-effect4218"
+         id="path4214"
+         d="m 347.53433,808.02109 c -11.52336,-4.28469 -22.65334,-12.3473 -31.19287,-23.37916 -4.94549,-6.38886 -9.02342,-13.87072 -11.91174,-22.11075 -2.23324,-5.89951 -3.8432,-12.18821 -4.71108,-18.706 -1.51311,-21.41075 5.35644,-44.90645 20.38577,-63.79834 14.97756,-18.82682 38.17651,-32.93485 64.58477,-37.20124 0,0 0.014,-3.5e-4 0.014,-3.5e-4 a 0.03857605,0.03857605 90 0 0 -0.002,-0.0771 c 0,0 -0.014,3.4e-4 -0.014,3.4e-4 -26.51818,-2.93535 -55.51468,4.17996 -79.33633,21.38729 -23.747,17.1534 -41.99841,44.11104 -48.71479,75.41059 -2.45131,9.43151 -3.86062,19.26459 -4.16666,29.27579 -0.20468,13.86335 1.70643,28.08631 5.93427,41.98939 7.2491,23.83837 21.14802,46.47807 40.7437,64.51676 a 41.447404,41.447404 90 0 0 48.38688,-67.3072 z"
+         style="fill:#95a5a6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#95a5a6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 600.04797,875.32829 c 19.59568,-18.03869 33.4946,-40.67839 40.7437,-64.51676 4.22784,-13.90308 6.13895,-28.12604 5.93427,-41.98939 -0.30604,-10.0112 -1.71535,-19.84428 -4.16666,-29.27578 -6.71638,-31.29956 -24.96779,-58.2572 -48.71478,-75.4106 -23.82166,-17.20733 -52.81816,-24.32264 -79.33634,-21.38729 0,0 -0.014,-3.4e-4 -0.014,-3.4e-4 a 0.03857605,0.03857605 90 0 0 -0.002,0.0771 c 0,0 0.014,3.5e-4 0.014,3.5e-4 26.40826,4.26639 49.60721,18.37442 64.58476,37.20123 15.02934,18.8919 21.89889,42.3876 20.38578,63.79834 -0.86788,6.5178 -2.47784,12.8065 -4.71108,18.70601 -2.88832,8.24003 -6.96625,15.72189 -11.91174,22.11075 -8.53953,11.03186 -19.66951,19.09447 -31.19287,23.37916 a 41.447404,41.447404 90 0 0 48.38688,67.3072 z"
+         id="path4220"
+         inkscape:path-effect="#path-effect4222;#path-effect4224"
+         inkscape:original-d="m 575.85453,841.67469 c 0,0 151.68832,-1.08988 45.1635,-99.98892 -106.5248,-98.89908 -285.84588,-110.73443 -106.5248,-98.89908"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g3994"
+         style="">
+        <path
+           style="fill:#c0392b;fill-opacity:1;stroke:none"
+           d="m 449.51562,765.89343 -133.21875,76.90625 0,153.8125 0.34375,0.21875 89.71875,-51.8125 -0.34375,-0.1875 0,-5.09375 -0.0625,0.0312 0,-103.59375 42.84375,-24.71875 0.34375,0.21875 0.375,-0.21875 43.59375,25.15625 0,108.65625 89.28125,51.5625 0.34375,-0.21875 0,-153.8125 -133.21875,-76.9062 z m 43.5,178.9375 -0.34375,0.1875 0.34375,0.1875 0,-0.375 z"
+           id="path3066"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e74c3c;fill-opacity:1;stroke:none"
+           d="m 449.51562,707.89343 -133.21875,76.90625 0,153.8125 0.34375,0.21875 89.375,-51.625 0,-0.375 0,-3.0625 0,-47.1875 43.5,-25.125 43.5,25.125 0,44.0625 0,6.1875 0,0.375 89.375,51.625 0.34375,-0.21875 0,-153.8125 -133.21875,-76.90625 z"
+           id="path2993"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g4205"
+       transform="translate(0,2)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4185"
+         y="954.15698"
+         x="307.08984"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1"
+           y="954.15698"
+           x="307.08984"
+           id="tspan4187"
+           sodipodi:role="line">diable</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="305.08984"
+         y="954.15698"
+         id="text4189"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4191"
+           x="305.08984"
+           y="954.15698"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1">diable</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4193"
+         y="952.15698"
+         x="305.08984"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1"
+           y="952.15698"
+           x="305.08984"
+           id="tspan4195"
+           sodipodi:role="line">diable</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="307.08984"
+         y="952.15698"
+         id="text4197"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4199"
+           x="307.08984"
+           y="952.15698"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1">diable</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4201"
+         y="954.15698"
+         x="307.08984"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1"
+           y="954.15698"
+           x="307.08984"
+           id="tspan4203"
+           sodipodi:role="line">diable</tspan></text>
+    </g>
+    <g
+       id="g4237">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4217"
+         y="1002.899"
+         x="292.91022"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1"
+           y="1002.899"
+           x="292.91022"
+           id="tspan4219"
+           sodipodi:role="line">Daemonize the things out.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="292.91022"
+         y="1002.2796"
+         id="text4221"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4223"
+           x="292.91022"
+           y="1002.2796"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1">Daemonize the things out.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4225"
+         y="1002.2796"
+         x="292.2908"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1"
+           y="1002.2796"
+           x="292.2908"
+           id="tspan4227"
+           sodipodi:role="line">Daemonize the things out.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="292.2908"
+         y="1003.5184"
+         id="text4229"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4231"
+           x="292.2908"
+           y="1003.5184"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1">Daemonize the things out.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4233"
+         y="1003.5184"
+         x="292.91022"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:1"
+           y="1003.5184"
+           x="292.91022"
+           id="tspan4235"
+           sodipodi:role="line">Daemonize the things out.</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.99462128px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.698151"
+       y="944.89984"
+       id="text4249"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4251"
+         x="40.698151"
+         y="944.89984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.97579956px;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:0.10526316">require(&quot;</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4253"
+       y="944.89984"
+       x="600.69812"
+       style="font-style:normal;font-weight:normal;font-size:23.99462128px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.97579956px;font-family:'Ruge Boogie';-inkscape-font-specification:'Ruge Boogie';fill:#2c3e50;fill-opacity:0.10526315"
+         y="944.89984"
+         x="600.69812"
+         id="tspan4255"
+         sodipodi:role="line">&quot;)</tspan></text>
+  </g>
+</svg>
