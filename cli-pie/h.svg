@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="400"
+   viewBox="0 0 238.12501 105.83333"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="h.svg"
+   inkscape:export-filename="/home/ionicabizau/Documents/repository-downloader/downloads/github/IonicaBizau/Resources/cli-pie/h.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6815">
+      <stop
+         style="stop-color:#34495e;stop-opacity:1"
+         offset="0"
+         id="stop6817" />
+      <stop
+         style="stop-color:#2c3e50;stop-opacity:1"
+         offset="1"
+         id="stop6819" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6815"
+       id="linearGradient6821"
+       x1="59.915737"
+       y1="202.03476"
+       x2="158.19649"
+       y2="287.52716"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.63872581,0,0,0.63872581,30.565465,89.214557)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="485.06958"
+     inkscape:cy="269.60658"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-191.16668)">
+    <g
+       id="g7077"
+       transform="matrix(1.5331166,0,0,1.5331166,-25.324271,-108.48333)">
+      <g
+         transform="translate(-37.041668,-15.875)"
+         id="g7039">
+        <path
+           d="m 127.64602,218.62973 -54.685768,0 c -2.517112,0 -4.557147,2.04003 -4.557147,4.55715 l 0,45.57147 c 0,2.51712 2.040035,4.55715 4.557147,4.55715 l 54.685768,0 c 2.51711,0 4.55715,-2.04003 4.55715,-4.55715 l 0,-45.57147 c 0,-2.51712 -2.04004,-4.55715 -4.55715,-4.55715 z m -50.128619,31.90002 9.114295,-9.11427 -9.114295,-9.11432 4.557147,-4.55714 13.671443,13.67146 -13.671443,13.67143 -4.557147,-4.55716 z m 36.457179,4.55716 -18.228589,0 0,-4.55716 18.228589,0 0,4.55716 z"
+           id="path4251"
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient6821);fill-opacity:1;stroke-width:0.07120542" />
+        <g
+           id="g6980"
+           transform="matrix(0.73169522,0,0,0.73169522,17.011894,59.363843)">
+          <g
+             id="g6975">
+            <circle
+               style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none;stroke-width:0.83534068;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path6726"
+               cx="157.36549"
+               cy="242.95033"
+               r="25.639175" />
+            <path
+               id="circle6728"
+               style="opacity:1;fill:#f1c40f;fill-opacity:1;stroke:none;stroke-width:0.83534068;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               sodipodi:type="arc"
+               sodipodi:cx="157.36549"
+               sodipodi:cy="242.95033"
+               sodipodi:rx="25.639175"
+               sodipodi:ry="25.639175"
+               sodipodi:start="0"
+               sodipodi:end="1.5707963"
+               d="m 183.00467,242.95033 a 25.639175,25.639175 0 0 1 -25.63918,25.63918 l 0,-25.63918 z" />
+            <path
+               id="circle6732"
+               style="opacity:1;fill:#2ecc71;fill-opacity:1;stroke:none;stroke-width:0.83534068;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               sodipodi:type="arc"
+               sodipodi:cx="242.94994"
+               sodipodi:cy="-157.38559"
+               sodipodi:rx="25.639175"
+               sodipodi:ry="25.639175"
+               sodipodi:start="0"
+               sodipodi:end="3.1415927"
+               d="m 268.58911,-157.38559 a 25.639175,25.639175 0 0 1 -12.81959,22.20418 25.639175,25.639175 0 0 1 -25.63917,0 25.639175,25.639175 0 0 1 -12.81959,-22.20418"
+               sodipodi:open="true"
+               transform="rotate(90)" />
+          </g>
+          <g
+             transform="matrix(0.75053074,0,0,0.75053074,165.71194,104.86377)"
+             id="g6901">
+            <g
+               id="g6896">
+              <rect
+                 y="169.27911"
+                 x="28.177118"
+                 height="7.3976803"
+                 width="7.3976846"
+                 id="rect6734"
+                 style="opacity:1;fill:#2ecc71;fill-opacity:1;stroke:none;stroke-width:1.87834549;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text6736"
+                 y="175.47224"
+                 x="39.762997"
+                 style="font-style:normal;font-weight:normal;font-size:9.34191227px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35032171px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#2c3e50;stroke-width:0.35032171px"
+                   y="175.47224"
+                   x="39.762997"
+                   id="tspan6738"
+                   sodipodi:role="line">Foo (50%)</tspan></text>
+            </g>
+            <g
+               id="g6891">
+              <rect
+                 style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none;stroke-width:1.87834549;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect6747"
+                 width="7.3976846"
+                 height="7.3976803"
+                 x="28.177118"
+                 y="179.86244" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-weight:normal;font-size:9.34191227px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35032171px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="39.762997"
+                 y="186.05557"
+                 id="text6749"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   id="tspan6751"
+                   x="39.762997"
+                   y="186.05557"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#2c3e50;stroke-width:0.35032171px">Bar (25%)</tspan></text>
+            </g>
+            <g
+               id="g6886">
+              <rect
+                 y="190.44577"
+                 x="28.177118"
+                 height="7.3976803"
+                 width="7.3976846"
+                 id="rect6755"
+                 style="opacity:1;fill:#f1c40f;fill-opacity:1;stroke:none;stroke-width:1.87834549;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text6757"
+                 y="196.6389"
+                 x="39.762997"
+                 style="font-style:normal;font-weight:normal;font-size:9.34191227px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35032171px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#2c3e50;stroke-width:0.35032171px"
+                   y="196.6389"
+                   x="39.762997"
+                   id="tspan6759"
+                   sodipodi:role="line">Baz (25%)</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(-0.52916663)"
+         id="g7070">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:17.25808716px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:0.64717817px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="97.245605"
+           y="242.69391"
+           id="text7060"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7062"
+             x="97.245605"
+             y="242.69391"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#2c3e50;stroke-width:0.64717817px">cli-pie</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.3200922px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19950344px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="97.280197"
+           y="248.48914"
+           id="text7064"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan7066"
+             x="97.280197"
+             y="248.48914"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.19950344px">Generate pie charts in</tspan><tspan
+             sodipodi:role="line"
+             x="97.280197"
+             y="255.13925"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.19950344px"
+             id="tspan7068">terminal and text mode.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
