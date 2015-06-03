@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="400"
+   viewBox="0 0 238.12501 105.83333"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="h.svg"
+   inkscape:export-filename="/home/ionicabizau/Documents/repository-downloader/downloads/github/IonicaBizau/Resources/piklor/h.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6618"
+       inkscape:collect="always">
+      <stop
+         id="stop6620"
+         offset="0"
+         style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop
+         id="stop6622"
+         offset="1"
+         style="stop-color:#c0392b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6586">
+      <stop
+         style="stop-color:#f39c12;stop-opacity:1;"
+         offset="0"
+         id="stop6588" />
+      <stop
+         style="stop-color:#d35400;stop-opacity:1"
+         offset="1"
+         id="stop6590" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6586"
+       id="linearGradient6592"
+       x1="-31.970848"
+       y1="115.35823"
+       x2="182.35225"
+       y2="185.45728"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.199714,0,0,1.199714,-52.635457,59.956731)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6618"
+       id="linearGradient6616"
+       gradientUnits="userSpaceOnUse"
+       x1="-31.970848"
+       y1="115.35823"
+       x2="182.35225"
+       y2="185.45728"
+       gradientTransform="matrix(0.44617124,0,0,0.44617124,1.5349451,195.5968)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1172287"
+     inkscape:cx="425.19937"
+     inkscape:cy="144.7639"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-191.16668)">
+    <g
+       id="g6699"
+       transform="translate(-25.128221)">
+      <g
+         transform="matrix(0.81387052,0,0,0.81387052,35.659824,47.284409)"
+         id="g6678">
+        <path
+           style="opacity:1;fill:url(#linearGradient6592);fill-opacity:1;stroke:none;stroke-width:0.255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 35.934607,204.9453 c -16.286115,0 -29.4888424,13.20272 -29.4888424,29.48885 l 0,4.9145 c 0,2.71435 2.2007781,4.91512 4.9151184,4.91512 l 0,24.57373 c 0,5.42869 11.001949,9.8296 24.573724,9.8296 13.571775,0 24.573728,-4.40091 24.573728,-9.8296 l 0,-24.57373 c 2.714332,0 4.915115,-2.20077 4.915115,-4.91512 l 0,-4.9145 c 0,-16.28613 -13.202721,-29.48885 -29.488843,-29.48885 z m 0,4.91512 c 13.571775,0 24.573728,11.00194 24.573728,24.57373 0,-5.42868 -11.001953,-9.82962 -24.573728,-9.82962 -13.563252,0 -24.559904,4.39507 -24.573724,9.81909 0.0056,-13.56704 11.005405,-24.5632 24.573724,-24.5632 z m 0,19.65861 c 8.250147,0 15.311797,2.03336 18.228339,4.91512 -2.916542,2.88175 -9.978192,4.9145 -18.228339,4.9145 -8.250144,0 -15.311803,-2.03275 -18.228339,-4.9145 2.916536,-2.88176 9.978195,-4.91512 18.228339,-4.91512 z M 16.27538,240.33254 c 4.483352,2.38713 11.620338,3.93123 19.659227,3.93123 8.038888,0 15.175869,-1.5441 19.65923,-3.93123 l 0,8.84572 c 0,2.71434 -2.200775,4.91512 -4.915119,4.91512 l 0,2.45693 c 0,1.35718 -1.099773,2.45757 -2.456936,2.45757 -1.357174,0 -2.45756,-1.10039 -2.45756,-2.45757 l 0,-2.45693 c 0,-1.35715 -1.100392,-2.45756 -2.457559,-2.45756 -1.357167,0 -2.457556,1.10041 -2.457556,2.45756 l 0,12.28655 c 0,1.35718 -1.099771,2.45757 -2.45694,2.45757 -1.35717,0 -2.45756,-1.10039 -2.45756,-2.45757 l 0,-9.82962 c 0,-1.35715 -1.100386,-2.45693 -2.457557,-2.45693 -1.357172,0 -2.457558,1.09978 -2.457558,2.45693 l 0,2.45757 c 0,2.7143 -2.200161,4.91512 -4.914497,4.91512 -2.714343,0 -4.9145,-2.20082 -4.9145,-4.91512 l 0,-4.9145 c -2.714337,0 -4.915115,-2.20078 -4.915115,-4.91512 l 0,-8.84572 z"
+           id="rect6584"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6638">
+          <path
+             inkscape:connector-curvature="0"
+             id="path6630"
+             transform="matrix(0.26458333,0,0,0.26458333,0,191.16668)"
+             d="m 136.05078,214.7207 a 51.019094,51.019094 0 0 0 -50.562499,44.70118 l 50.429689,54.85351 50.73828,-54.49414 A 51.019094,51.019094 0 0 0 136.05078,214.7207 Z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.80199999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect6614"
+             d="m 27.381093,249.09284 -8.553514,9.2459 17.107029,18.49181 17.107028,-18.49181 -8.553514,-9.2459 -17.107029,0 z m 2.138494,2.31142 12.830041,0 6.415251,6.93448 -12.830271,13.86897 -12.830272,-13.86897 6.415251,-6.93448 z m 6.415021,2.31165 0,16.18039 10.691777,-11.55756 -4.276757,-4.62283 -6.41502,0 z"
+             style="opacity:1;fill:url(#linearGradient6616);fill-opacity:1;stroke:none;stroke-width:0.09467568;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         transform="matrix(1.263479,0,0,1.263479,-25.01086,-52.8077)"
+         id="g6684">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.75767326px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21591273px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="93.720146"
+           y="239.43381"
+           id="text6572"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6574"
+             x="93.720146"
+             y="239.43381"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;stroke-width:0.21591273px"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#c0392b;stroke-width:0.21591273px"
+               id="tspan6594">p</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#f1c40f;stroke-width:0.21591273px"
+               id="tspan6596">i</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#e74c3c;stroke-width:0.21591273px"
+               id="tspan6598">k</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#f39c12;stroke-width:0.21591273px"
+               id="tspan6602">l</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#d35400;stroke-width:0.21591273px"
+               id="tspan6604">o</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#34495e;stroke-width:0.21591273px"
+               id="tspan6606">r</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#3498db;stroke-width:0.21591273px"
+               id="tspan6608">.</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#2ecc71;stroke-width:0.21591273px"
+               id="tspan6610">j</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.66938782px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#2980b9;stroke-width:0.21591273px"
+               id="tspan6612">s</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.34671545px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0392b;fill-opacity:1;stroke:none;stroke-width:0.2005018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="94.775719"
+           y="256.90402"
+           id="text6642"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="94.775719"
+             y="256.90402"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.48540211px;font-family:Sniglet;-inkscape-font-specification:Sniglet;fill:#c0392b;stroke-width:0.2005018px"
+             id="tspan6646">A tiny JavaScript color picker library.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
