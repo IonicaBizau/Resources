@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="400"
+   viewBox="0 0 900.00001 400.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="h.svg"
+   inkscape:export-filename="/home/ionicabizau/Documents/Resources/name-it/h.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1242998"
+     inkscape:cx="506.21761"
+     inkscape:cy="248.54443"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36216)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0392b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="321.79749"
+       y="881.88214"
+       id="text4684"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4686"
+         x="321.79749"
+         y="881.88214"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Handlee;-inkscape-font-specification:Handlee;fill:#c0392b;fill-opacity:1">name-it</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 783.40412,719.55938 -77.18628,0 0,15.43725 77.18628,0 z m 30.8745,-46.31177 -138.9353,0 0,216.12159 185.24707,0 0,-169.80982 z m 30.87452,200.68439 -154.37257,0 0,-185.24714 115.77942,0 38.59315,38.59315 z m -138.9353,-30.87456 123.49805,0 0,-15.43725 -123.49805,0 z m 0,-30.8745 123.49805,0 0,-15.43728 -123.49805,0 z m 0,-30.87453 123.49805,0 0,-15.43725 -123.49805,0 z"
+       id="path8050"
+       style="fill:#f2f2f2" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4688"
+       y="878.84216"
+       x="31.822807"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.481;fill:#bdc3c7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.75px;font-family:Handlee;-inkscape-font-specification:Handlee;fill:#bdc3c7;fill-opacity:1"
+         y="878.84216"
+         x="31.822807"
+         id="tspan4690"
+         sodipodi:role="line">require(&quot;              &quot;)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0392b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="35.150932"
+       y="938.5257"
+       id="text4702"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4704"
+         x="35.150932"
+         y="938.5257"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter';fill:#c0392b;fill-opacity:1;font-size:37.5px">Generate project names from given <tspan
+   style="font-weight:bold;font-size:37.5px"
+   id="tspan4706">keywords</tspan>.</tspan></text>
+  </g>
+</svg>

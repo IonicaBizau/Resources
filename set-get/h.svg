@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="400"
+   viewBox="0 0 900.00002 399.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="set-get.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1242998"
+     inkscape:cx="394.39211"
+     inkscape:cy="193.54493"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36219)">
+    <g
+       id="g4804"
+       transform="translate(0,-53.152195)">
+      <g
+         transform="translate(-1.9073486e-6,-5.4428097e-7)"
+         id="g4799">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:27.23062325px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="358.09665"
+           y="885.06049"
+           id="text4779"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4781"
+             x="358.09665"
+             y="885.06049"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:122.53780365px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#2c3e50;fill-opacity:1">{ }</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 483.02546,845.76434 -26.46822,0 19.85116,-46.31938 -59.55348,59.55348 26.46821,0 -19.85116,46.31938 59.55349,-59.55348 z"
+           id="path4216"
+           style="fill:#2ecc71;fill-opacity:1" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4788"
+         y="949.72217"
+         x="348.64374"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';fill:#2c3e50;fill-opacity:1"
+           y="949.72217"
+           x="348.64374"
+           id="tspan4790"
+           sodipodi:role="line">set-or-get</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4792"
+         y="1002.7022"
+         x="157.86969"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Thin';fill:#2c3e50;fill-opacity:1"
+           y="1002.7022"
+           x="157.86969"
+           id="tspan4794"
+           sodipodi:role="line">Sets or gets an object field value.</tspan></text>
+    </g>
+  </g>
+</svg>
