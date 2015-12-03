@@ -16,7 +16,7 @@
     "image"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "MIT",
+  "license": "CC4",
   "bugs": {
     "url": "https://github.com/IonicaBizau/Resources/issues"
   },
@@ -26,6 +26,7 @@
     "description": "![Resources - Image resources used in Ionică Bizău's projects.](./resources/h.png)",
     "show_description": false,
     "show_installation": false,
-    "show_contributing": false
+    "show_contributing": false,
+    "license": "See the [LICENSE](/LICENSE) file."
   }
 }
