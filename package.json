@@ -1,0 +1,32 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "The SVG sources for my project logos/resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/Resources.git"
+  },
+  "keywords": [
+    "resources",
+    "svg",
+    "image"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "CC4",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/Resources/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/Resources#readme",
+  "blah": {
+    "show_title": false,
+    "description": "![Resources - Image resources used in Ionică Bizău's projects.](./resources/h.png)",
+    "show_description": false,
+    "show_installation": false,
+    "show_contributing": false,
+    "license": "See the [LICENSE](/LICENSE) file."
+  }
+}
