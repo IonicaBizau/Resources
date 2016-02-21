@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 500.00001 500.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/ionicabizau/text4142.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.872"
+     inkscape:cx="281.72231"
+     inkscape:cy="180.50344"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36216)">
+    <path
+       style="opacity:1;fill:#2ecc71;fill-opacity:1;stroke:#27ae60;stroke-width:16.70199966;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 407.33726,793.1253 A 165.5534,165.51901 0 0 0 412.78034,711.40638 165.5534,165.51901 0 0 0 249.82671,576.09199 165.5534,165.51901 0 0 0 87.166389,711.75962 165.5534,165.51901 0 0 0 191.10289,896.29866 l 40.13877,-105.41073 a 52.738622,52.727665 0 0 1 -30.52358,-68.0376 52.738622,52.727665 0 0 1 68.05174,-30.51723 52.738622,52.727665 0 0 1 30.52357,68.0376 52.738622,52.727665 0 0 1 -30.44041,30.41655 l 40.391,105.38353 A 165.5534,165.51901 0 0 0 407.33726,793.1253 Z"
+       id="path4136"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35.22397614px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="148.15598"
+       y="1005.1042"
+       id="text4142"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4144"
+         x="148.15598"
+         y="1005.1042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.88091278px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#3498db">jillix</tspan></text>
+  </g>
+</svg>
