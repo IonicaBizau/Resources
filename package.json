@@ -2,7 +2,7 @@
   "name": "resources",
   "version": "1.0.0",
   "description": "The SVG sources for my project logos/resources.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +16,7 @@
     "image"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "CC4",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/Resources/issues"
   },
@@ -28,5 +28,16 @@
     "show_installation": false,
     "show_contributing": false,
     "license": "See the [LICENSE](/LICENSE) file."
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
