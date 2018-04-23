@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900mm"
+   height="400mm"
+   viewBox="0 0 3188.9764 1417.3228"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cobolsvg.svg"
+   inkscape:export-filename="/home/ionicabizau/Documents/cobolsvg.svg.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1145"
+     inkscape:cy="405.71429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="900mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,364.96063)">
+    <rect
+       style="opacity:0.393;fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3347"
+       width="3194.2856"
+       height="1425.7142"
+       x="-2.6546333"
+       y="-369.1564" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:48.12970734px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffa5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-15.139008"
+       y="-315.42523"
+       id="text3349"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="-315.42523"
+         id="tspan3365"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="-267.32065"
+         id="tspan3367"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">       IDENTIFICATION DIVISION.</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="-219.21608"
+         id="tspan3369"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">       PROGRAM-ID. MAIN.</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="-171.1115"
+         id="tspan3371"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="-123.00692"
+         id="tspan3373"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">       DATA DIVISION.</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="-74.902344"
+         id="tspan3375"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">          WORKING-STORAGE SECTION.</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="-26.79777"
+         id="tspan3377"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">          01 NODEJS-CODE PIC X(100) value &quot;console.log('Hello World!')&quot;.</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="21.306808"
+         id="tspan3379"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="69.411385"
+         id="tspan3381"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">       PROCEDURE DIVISION.</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="117.51596"
+         id="tspan3383"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">      * Execute a short Node.js snippet</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="165.62054"
+         id="tspan3385"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">           CALL 'EXEC_NODEJS' USING NODEJS-CODE</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="213.72511"
+         id="tspan3387"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="261.82968"
+         id="tspan3389"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">           DISPLAY &quot;Starting an HTTP server on port 8000&quot;.</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="309.93427"
+         id="tspan3391"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="358.03885"
+         id="tspan3393"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">      * Convert an image into ASCII/ANSI art</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="406.14343"
+         id="tspan3395"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">           CALL 'EXEC_NODEJS_FILE' USING &quot;example/grace-hopper.js&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="454.24799"
+         id="tspan3397"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="502.35257"
+         id="tspan3399"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">           DISPLAY &quot;Starting an HTTP server on port 8000&quot;.</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="550.45715"
+         id="tspan3401"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1" /><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="598.56171"
+         id="tspan3403"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">      * Starting an HTTP server in Node.js</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="646.66632"
+         id="tspan3405"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">           CALL 'EXEC_NODEJS_FILE' USING &quot;example/server.js&quot;.</tspan><tspan
+         sodipodi:role="line"
+         x="-15.139008"
+         y="694.77087"
+         id="tspan3407"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffa5;fill-opacity:1">       STOP RUN.</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.73200001;fill:#a8ffa5;fill-opacity:1;stroke:none"
+       id="path4246"
+       sodipodi:sides="6"
+       sodipodi:cx="2354.4883"
+       sodipodi:cy="375.70074"
+       sodipodi:r1="622.28687"
+       sodipodi:r2="538.9162"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 2893.4045,686.84418 -538.9162,311.14343 -538.9163,-311.14344 0,-622.28686 538.9163,-311.14343 538.9162,311.143434 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1878.728"
+       y="-293.35211"
+       id="text4248"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4250"
+         x="1878.728"
+         y="-293.35211"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff">IDENTIFICATION DIVISION.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4252"
+       y="1040.6479"
+       x="2179.2881"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff"
+         y="1040.6479"
+         x="2179.2881"
+         id="tspan4254"
+         sodipodi:role="line">STOP RUN.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.13002777px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1624.9111"
+       y="945.8136"
+       id="text4256"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4258"
+         x="1624.9111"
+         y="945.8136"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.26005554px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff">DATA DIVISION.</tspan></text>
+    <text
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4260"
+       y="-1402.5265"
+       x="1975.1541"
+       style="font-style:normal;font-weight:normal;font-size:28.71681976px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.43363953px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff"
+         y="-1402.5265"
+         x="1975.1541"
+         id="tspan4262"
+         sodipodi:role="line">PROCEDURE DIVISION.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.86671066px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.766953"
+       y="-2912.0261"
+       id="text4264"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4266"
+         x="75.766953"
+         y="-2912.0261"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.73342133px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff">WORKING-STORAGE SECTION.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4272"
+       y="140.09547"
+       x="1951.6807"
+       style="font-style:normal;font-weight:normal;font-size:25.30991936px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.61983871px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff"
+         y="140.09547"
+         x="1951.6807"
+         id="tspan4274"
+         sodipodi:role="line">console.log(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.61983871px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff"
+         y="203.37027"
+         x="1951.6807"
+         sodipodi:role="line"
+         id="tspan4278">   &quot;Hello to COBOL from Node.js&quot;</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.61983871px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffffff"
+         y="266.64508"
+         x="1951.6807"
+         sodipodi:role="line"
+         id="tspan4282">);</tspan></text>
+    <rect
+       y="-369.1564"
+       x="-2.6546333"
+       height="1425.7142"
+       width="3194.2856"
+       id="rect4319"
+       style="opacity:0.712;fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:61.75094986px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#40d47e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="895.62177"
+       y="438.3186"
+       id="text4321"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4323"
+         x="895.62177"
+         y="438.3186"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:277.87927246px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#40d47e;fill-opacity:1">node.cobol</tspan></text>
+  </g>
+</svg>
