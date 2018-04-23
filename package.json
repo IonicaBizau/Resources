@@ -23,7 +23,7 @@
   "homepage": "https://github.com/IonicaBizau/Resources#readme",
   "blah": {
     "show_title": false,
-    "description": "![Resources - Image resources used in Ionică Bizău's projects.](./resources/h.png)",
+    "description": "![Resources - Image resources used in Ionică Bizău's projects.](./projects/resources/h.png)",
     "show_description": false,
     "show_installation": false,
     "show_contributing": false,
