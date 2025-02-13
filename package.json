@@ -16,7 +16,7 @@
     "image"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
-  "license": "SEE IN LICENSE",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/Resources/issues"
   },
@@ -40,6 +40,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
